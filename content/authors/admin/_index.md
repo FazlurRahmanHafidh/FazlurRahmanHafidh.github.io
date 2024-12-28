@@ -33,14 +33,10 @@ profiles:
   - icon: at-symbol
     url: "mailto:fazlurrahmanhafidh01@gmail.com"
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/fzlrrhafidh/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/FazlurRahmanHafidh
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
