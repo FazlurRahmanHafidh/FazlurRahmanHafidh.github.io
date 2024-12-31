@@ -48,15 +48,15 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Rekayasa Perangkat Lunak
+    institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
+    date_start: 2023-10-25
+    date_end:
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Students of the software engineering study program from the Statistics and Business Technology Institute of Muhammadiyah Semarang, are active in the organization and have an interest in learning new things. Also interested in game development and technopreneur.
     button:
-      text: "Read Thesis"
-      url: "https://example.com"
+      text: "Read About College"
+      url: "https://pmb.itesa.ac.id/"
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
