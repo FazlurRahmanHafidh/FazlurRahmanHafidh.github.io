@@ -126,7 +126,7 @@ skills:
     items:
       - name: Hiking
         description: ""
-        percent: 60
+        percent: 50
         icon: person-simple-walk
       - name: Cats
         description: ""
@@ -134,14 +134,14 @@ skills:
         icon: cat
       - name: Photography
         description: ""
-        percent: 80
+        percent: 70
         icon: camera
 
 languages:
-  - name: English
-    percent: 50
   - name: Indonesia
     percent: 100
+  - name: English
+    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -177,4 +177,7 @@ awards:
 
 ## About Me
 
-Hallo!, Perkenalkan saya FAzlur Rahman Hafidh lahir 01 Desember 2005, saya Mahasiswa dari REKAYASA PERANGKAT LUNAK (RPL) yang didalamnya itu mencakup coding, teknologi, dan masih banyak lagi mengenai digital. jika anda penasaran dengan REKAYASA PERANGKAT LUNAK, anda dapat mengakses blog ini.
+Halo! Saya Fazlur Rahman Hafidh, lahir 1 Desember 2005.
+Saat ini, saya merupakan mahasiswa Rekayasa Perangkat Lunak (RPL), yang mencakup berbagai hal tentang coding, teknologi, dan dunia digital. Jika Anda tertarik untuk belajar lebih lanjut tentang RPL, Anda dapat mengunjungi blog saya untuk informasi lebih dalam.
+
+Terima kasih!
