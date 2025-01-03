@@ -115,7 +115,7 @@ skills:
       - name: Editing Foto & Video
         description: ""
         percent: 100
-        icon: chart-bar
+        icon: video-editing
       - name: SQL
         description: ""
         percent: 40
