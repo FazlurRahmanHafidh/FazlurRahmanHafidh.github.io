@@ -61,8 +61,7 @@ education:
     institution: SMA Negeri 1 Ambarawa
     date_start: 2020-06-10
     date_end: 2023-04-21s
-    summary: |
-      SMA Negeri 1 adalah sekolah menengah atas yang terkenal dengan kualitas pendidikan yang baik. Sekolah ini menawarkan jurusan Ilmu Pengetahuan Alam (IPA), Ilmu Pengetahuan Sosial (IPS), dan Bahasa.
+    summary: SMA Negeri 1 adalah sekolah menengah atas yang terkenal dengan kualitas pendidikan yang baik. Sekolah ini menawarkan jurusan Ilmu Pengetahuan Alam (IPA), Ilmu Pengetahuan Sosial (IPS), dan Bahasa.
 
       Karakteristik:
       -Kualitas Pendidikan: Kurikulum yang mendalam dan beragam.
@@ -77,6 +76,7 @@ education:
       -Kesempatan Berprestasi: Banyak lomba dan kompetisi untuk menunjukkan kemampuan.
 
       Dengan semua keunggulan ini, SMA Negeri 1 menjadi pilihan menarik bagi siswa yang ingin melanjutkan pendidikan ke jenjang yang lebih tinggi.
+      
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
