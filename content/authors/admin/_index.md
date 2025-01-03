@@ -60,7 +60,7 @@ education:
   - area: Ilmu Pengetahuan Sosial
     institution: SMA Negeri 1 Ambarawa
     date_start: 2020-06-10
-    date_end: 2023-04-21s
+    date_end: 2023-04-21
     summary:
       SMA Negeri 1 adalah sekolah menengah atas yang terkenal dengan kualitas pendidikan yang baik. Sekolah ini menawarkan jurusan Ilmu Pengetahuan Alam (IPA), Ilmu Pengetahuan Sosial (IPS), dan Bahasa.
 
