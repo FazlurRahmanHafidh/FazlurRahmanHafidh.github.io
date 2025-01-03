@@ -53,32 +53,30 @@ education:
     date_start: 2023-10-25
     date_end:
     summary: |
-      Students of the software engineering study program from the Statistics and Business Technology Institute of Muhammadiyah Semarang, are active in the organization and have an interest in learning new things. Also interested in game development and technopreneur.
+      Mahasiswa program studi teknik perangkat lunak dari Institut Teknologi Bisnis dan Statistik Muhammadiyah Semarang aktif dalam organisasi dan memiliki minat untuk belajar hal-hal baru. Mereka juga tertarik pada pengembangan game dan technopreneurship.
     button:
       text: "Read About College"
       url: "https://pmb.itesa.ac.id/"
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ilmu Pengetahuan Sosial
+    institution: SMA Negeri 1 Ambarawa
+    date_start: 2020-06-10
+    date_end: 2023-04-21s
     summary: |
-      GPA: 3.8/4.0
+      SMA Negeri 1 adalah sekolah menengah atas yang terkenal dengan kualitas pendidikan yang baik. Sekolah ini menawarkan jurusan Ilmu Pengetahuan Alam (IPA), Ilmu Pengetahuan Sosial (IPS), dan Bahasa.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      Karakteristik:
+      -Kualitas Pendidikan: Kurikulum yang mendalam dan beragam.
+      -Fasilitas: Laboratorium, perpustakaan, dan ruang kelas yang nyaman.
+      -Ekstrakurikuler: Beragam kegiatan untuk pengembangan minat dan bakat.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Alasan Tertarik Masuk:
+
+      -Prestasi Akademik: Reputasi baik di tingkat lokal dan nasional.
+      -Rekomendasi Alumni: Alumni sukses yang menjadi motivasi.
+      -Pengembangan Karakter: Fokus pada integritas dan kepemimpinan.
+      -Kesempatan Berprestasi: Banyak lomba dan kompetisi untuk menunjukkan kemampuan.
+
+      Dengan semua keunggulan ini, SMA Negeri 1 menjadi pilihan menarik bagi siswa yang ingin melanjutkan pendidikan ke jenjang yang lebih tinggi.
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
