@@ -77,7 +77,6 @@ education:
       - Kesempatan Berprestasi = Banyak lomba dan kompetisi untuk menunjukkan kemampuan.
 
       Dengan semua keunggulan ini, SMA Negeri 1 menjadi pilihan menarik bagi siswa yang ingin melanjutkan pendidikan ke jenjang yang lebih tinggi.
-
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
