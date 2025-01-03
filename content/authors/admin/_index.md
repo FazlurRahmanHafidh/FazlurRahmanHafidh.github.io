@@ -65,16 +65,16 @@ education:
       SMA Negeri 1 adalah sekolah menengah atas yang terkenal dengan kualitas pendidikan yang baik. Sekolah ini menawarkan jurusan Ilmu Pengetahuan Alam (IPA), Ilmu Pengetahuan Sosial (IPS), dan Bahasa.
 
       Karakteristik
-      -Kualitas Pendidikan = Kurikulum yang mendalam dan beragam.
-      -Fasilitas = Laboratorium, perpustakaan, dan ruang kelas yang nyaman.
-      -Ekstrakurikuler = Beragam kegiatan untuk pengembangan minat dan bakat.
+      - Kualitas Pendidikan = Kurikulum yang mendalam dan beragam.
+      - Fasilitas = Laboratorium, perpustakaan, dan ruang kelas yang nyaman.
+      - Ekstrakurikuler = Beragam kegiatan untuk pengembangan minat dan bakat.
 
       Alasan Tertarik Masuk
 
-      -Prestasi Akademik = Reputasi baik di tingkat lokal dan nasional.
-      -Rekomendasi Alumni = Alumni sukses yang menjadi motivasi.
-      -Pengembangan Karakter = Fokus pada integritas dan kepemimpinan.
-      -Kesempatan Berprestasi = Banyak lomba dan kompetisi untuk menunjukkan kemampuan.
+      - Prestasi Akademik = Reputasi baik di tingkat lokal dan nasional.
+      - Rekomendasi Alumni = Alumni sukses yang menjadi motivasi.
+      - Pengembangan Karakter = Fokus pada integritas dan kepemimpinan.
+      - Kesempatan Berprestasi = Banyak lomba dan kompetisi untuk menunjukkan kemampuan.
 
       Dengan semua keunggulan ini, SMA Negeri 1 menjadi pilihan menarik bagi siswa yang ingin melanjutkan pendidikan ke jenjang yang lebih tinggi.
 
