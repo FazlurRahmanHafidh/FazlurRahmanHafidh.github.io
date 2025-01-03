@@ -112,7 +112,7 @@ skills:
         description: ""
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Editing Foto & Video
         description: ""
         percent: 100
         icon: chart-bar
