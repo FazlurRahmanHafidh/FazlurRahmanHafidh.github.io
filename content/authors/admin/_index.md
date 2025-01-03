@@ -61,22 +61,14 @@ education:
     institution: SMA Negeri 1 Ambarawa
     date_start: 2020-06-10
     date_end: 2023-04-21
-    summary:
-      SMA Negeri 1 adalah sekolah menengah atas yang terkenal dengan kualitas pendidikan yang baik. Sekolah ini menawarkan jurusan Ilmu Pengetahuan Alam (IPA), Ilmu Pengetahuan Sosial (IPS), dan Bahasa.
+    summary: |
+      SMA Negeri 1 dikenal sebagai sekolah menengah atas dengan kualitas pendidikan yang unggul. Sekolah ini menawarkan tiga jurusan utama, yaitu Ilmu Pengetahuan Alam (IPA), Ilmu Pengetahuan Sosial (IPS), dan Bahasa, yang dirancang untuk memenuhi kebutuhan dan minat siswa. Kualitas pendidikan di SMA Negeri 1 didukung oleh kurikulum yang mendalam dan beragam, sehingga mampu mendorong siswa meraih prestasi akademik maupun non-akademik. 
 
-      Karakteristik
-      - Kualitas Pendidikan = Kurikulum yang mendalam dan beragam.
-      - Fasilitas = Laboratorium, perpustakaan, dan ruang kelas yang nyaman.
-      - Ekstrakurikuler = Beragam kegiatan untuk pengembangan minat dan bakat.
+      Fasilitas yang tersedia di sekolah ini sangat memadai, mulai dari laboratorium, perpustakaan, hingga ruang kelas yang nyaman untuk mendukung proses belajar mengajar. Selain itu, terdapat berbagai kegiatan ekstrakurikuler yang bertujuan untuk membantu siswa mengembangkan minat dan bakat mereka, seperti seni, olahraga, hingga kegiatan organisasi. 
 
-      Alasan Tertarik Masuk
+      SMA Negeri 1 menjadi pilihan menarik bagi siswa karena memiliki reputasi yang baik di tingkat lokal maupun nasional. Alumni-alumni yang telah sukses memberikan inspirasi dan motivasi bagi calon siswa untuk bergabung. Sekolah ini juga sangat memperhatikan pengembangan karakter siswa, seperti integritas, kedisiplinan, dan kepemimpinan, sehingga menghasilkan lulusan yang tidak hanya cerdas secara akademik, tetapi juga memiliki karakter yang kuat.  
 
-      - Prestasi Akademik = Reputasi baik di tingkat lokal dan nasional.
-      - Rekomendasi Alumni = Alumni sukses yang menjadi motivasi.
-      - Pengembangan Karakter = Fokus pada integritas dan kepemimpinan.
-      - Kesempatan Berprestasi = Banyak lomba dan kompetisi untuk menunjukkan kemampuan.
-
-      Dengan semua keunggulan ini, SMA Negeri 1 menjadi pilihan menarik bagi siswa yang ingin melanjutkan pendidikan ke jenjang yang lebih tinggi.
+      Selain itu, SMA Negeri 1 menyediakan berbagai kesempatan untuk siswa berprestasi melalui lomba dan kompetisi di tingkat regional maupun nasional. Dengan semua keunggulan tersebut, SMA Negeri 1 merupakan pilihan ideal bagi siswa yang ingin melanjutkan pendidikan ke jenjang yang lebih tinggi dan mempersiapkan masa depan yang cerah.
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
