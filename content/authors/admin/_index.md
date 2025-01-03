@@ -62,13 +62,9 @@ education:
     date_start: 2020-06-10
     date_end: 2023-04-21
     summary: |
-      SMA Negeri 1 dikenal sebagai sekolah menengah atas dengan kualitas pendidikan yang unggul. Sekolah ini menawarkan tiga jurusan utama, yaitu Ilmu Pengetahuan Alam (IPA), Ilmu Pengetahuan Sosial (IPS), dan Bahasa, yang dirancang untuk memenuhi kebutuhan dan minat siswa. Kualitas pendidikan di SMA Negeri 1 didukung oleh kurikulum yang mendalam dan beragam, sehingga mampu mendorong siswa meraih prestasi akademik maupun non-akademik. 
+      SMA Negeri 1 Ambarawa dikenal sebagai sekolah dengan kualitas pendidikan unggul, menawarkan jurusan IPA, IPS, dan Bahasa. Kurikulumnya yang mendalam didukung oleh fasilitas lengkap, seperti laboratorium, perpustakaan, dan ruang kelas nyaman, serta berbagai kegiatan ekstrakurikuler untuk mengembangkan minat dan bakat siswa.
 
-      Fasilitas yang tersedia di sekolah ini sangat memadai, mulai dari laboratorium, perpustakaan, hingga ruang kelas yang nyaman untuk mendukung proses belajar mengajar. Selain itu, terdapat berbagai kegiatan ekstrakurikuler yang bertujuan untuk membantu siswa mengembangkan minat dan bakat mereka, seperti seni, olahraga, hingga kegiatan organisasi. 
-
-      SMA Negeri 1 menjadi pilihan menarik bagi siswa karena memiliki reputasi yang baik di tingkat lokal maupun nasional. Alumni-alumni yang telah sukses memberikan inspirasi dan motivasi bagi calon siswa untuk bergabung. Sekolah ini juga sangat memperhatikan pengembangan karakter siswa, seperti integritas, kedisiplinan, dan kepemimpinan, sehingga menghasilkan lulusan yang tidak hanya cerdas secara akademik, tetapi juga memiliki karakter yang kuat.  
-
-      Selain itu, SMA Negeri 1 menyediakan berbagai kesempatan untuk siswa berprestasi melalui lomba dan kompetisi di tingkat regional maupun nasional. Dengan semua keunggulan tersebut, SMA Negeri 1 merupakan pilihan ideal bagi siswa yang ingin melanjutkan pendidikan ke jenjang yang lebih tinggi dan mempersiapkan masa depan yang cerah.
+      Dengan reputasi baik di tingkat lokal dan nasional, alumni sukses, dan fokus pada pembentukan karakter seperti integritas dan kepemimpinan, SMA Negeri 1 menjadi pilihan ideal. Selain itu, sekolah ini menyediakan banyak kesempatan berprestasi melalui berbagai lomba dan kompetisi. Keunggulan ini menjadikannya tempat terbaik untuk mempersiapkan masa depan siswa.
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
