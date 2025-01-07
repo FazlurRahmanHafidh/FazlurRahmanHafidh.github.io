@@ -66,28 +66,14 @@ education:
 
       Dengan reputasi baik di tingkat lokal dan nasional, alumni sukses, dan fokus pada pembentukan karakter seperti integritas dan kepemimpinan, SMA Negeri 1 menjadi pilihan ideal. Selain itu, sekolah ini menyediakan banyak kesempatan berprestasi melalui berbagai lomba dan kompetisi. Keunggulan ini menjadikannya tempat terbaik untuk mempersiapkan masa depan siswa.
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Operator Sablon
+    company_name: Sablon Ambarawa
     company_url: ""
     company_logo: ""
-    date_start: 2021-01-01
-    date_end: ""
+    date_start: Juli 2023
+    date_end: September 2023
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ""
-    company_logo: ""
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Saya adalah Operator Sablon yang berpengalaman, bekerja dari Juli hingga Agustus setelah lulus SMA. Terampil dalam mengoperasikan mesin sablon dan mempersiapkan tinta, serta menerapkan desain grafis pada berbagai media. Memiliki perhatian tinggi terhadap detail dan mampu bekerja efisien dalam tim untuk mencapai target produksi. Berkomitmen untuk memastikan kualitas cetakan yang optimal.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -114,10 +100,10 @@ skills:
         description: ""
         percent: 50
         icon: person-simple-walk
-      - name: Cats
+      - name: Swimming
         description: ""
         percent: 100
-        icon: cat
+        icon:
       - name: Photography
         description: ""
         percent: 70
