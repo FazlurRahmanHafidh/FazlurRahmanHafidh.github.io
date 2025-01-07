@@ -70,10 +70,13 @@ work:
     company_name: Sablon Ambarawa
     company_url: ""
     company_logo: ""
-    date_start: Juli 2023
-    date_end: September 2023
+    date_start: "Juli 2023"
+    date_end: "September 2023"
     summary: |2-
-      Saya adalah Operator Sablon yang berpengalaman, bekerja dari Juli hingga Agustus setelah lulus SMA. Terampil dalam mengoperasikan mesin sablon dan mempersiapkan tinta, serta menerapkan desain grafis pada berbagai media. Memiliki perhatian tinggi terhadap detail dan mampu bekerja efisien dalam tim untuk mencapai target produksi. Berkomitmen untuk memastikan kualitas cetakan yang optimal.
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
