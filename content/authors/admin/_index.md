@@ -43,9 +43,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Game Developer
+  - Network Security Engineer
+  - Web Developer
 
 education:
   - area: Rekayasa Perangkat Lunak
