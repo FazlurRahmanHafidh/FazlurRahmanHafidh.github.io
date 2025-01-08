@@ -37,10 +37,6 @@ profiles:
     url: https://www.instagram.com/fzlrrhafidh/
   - icon: brands/github
     url: https://github.com/FazlurRahmanHafidh
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
   - Game Developer
@@ -103,7 +99,7 @@ skills:
       - name: Swimming
         description: ""
         percent: 100
-        icon:
+        icon: swim
       - name: Photography
         description: ""
         percent: 70
