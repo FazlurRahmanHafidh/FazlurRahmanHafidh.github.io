@@ -35,11 +35,7 @@ sections:
       title: "📚 My Research"
       subtitle: ""
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        Saya adalah seorang mahasiswa yang tertarik pada pemrograman dan teknologi. Saya menulis blog tentang pengembangan perangkat lunak, inovasi teknologi, dan tren terbaru dalam dunia pemrograman. Dengan menggunakan berbagai metode kualitatif dan kuantitatif, saya menyelidiki peran pemrograman dalam mendorong kemajuan teknologi dan ekonomi. Mari kita berkolaborasi! 😃
     design:
       columns: "1"
   - block: collection
