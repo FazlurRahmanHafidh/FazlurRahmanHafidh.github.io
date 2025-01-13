@@ -64,6 +64,15 @@ sections:
     design:
       view: citation
   - block: collection
+    id: talks
+    content:
+      title: Recent
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
   - block: collection
     id: news
     content:
