@@ -66,7 +66,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent
+      title:
       filters:
         folders:
           - event
