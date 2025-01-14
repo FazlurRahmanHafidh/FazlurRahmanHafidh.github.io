@@ -1,11 +1,9 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Balsamiq Project Lawasku
+date: 2024-10-26
+external_link: https://drive.google.com/file/d/1KuCxZursqkXXdfDbG5MFGTjusOvrwEsq/view?usp=sharing
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Balsamiq
 ---
 
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
