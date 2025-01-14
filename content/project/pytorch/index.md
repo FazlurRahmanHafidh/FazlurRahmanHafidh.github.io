@@ -8,6 +8,6 @@ tags:
   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Ggplot2 adalah paket di R yang digunakan untuk visualisasi data dengan pendekatan berbasis grammar of graphics. Paket ini memungkinkan pengguna untuk membuat berbagai jenis grafik, seperti scatter plot, bar plot, dan line plot, dengan mengatur elemen visual secara fleksibel.
 
 <!--more-->

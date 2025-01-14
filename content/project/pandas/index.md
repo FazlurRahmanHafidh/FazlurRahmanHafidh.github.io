@@ -6,6 +6,6 @@ tags:
   - Balsamiq
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Lawasku adalah aplikasi inovatif yang dirancang untuk memudahkan pengguna dalam melakukan transaksi jual beli barang bekas. Dengan antarmuka yang ramah pengguna dan fitur-fitur yang intuitif, Lawasku bertujuan untuk menciptakan pengalaman berbelanja yang menyenangkan dan efisien bagi semua penggunanya.
 
 <!--more-->
