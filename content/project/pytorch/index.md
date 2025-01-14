@@ -1,6 +1,6 @@
 ---
-title: PyTorch
-date: 2023-10-26
+title: Data Visualization Ggplot2
+date: 2024-12-11
 external_link: https://fazlurrahmanhafidh.github.io/dataviz_digiplot/
 tags:
   -
