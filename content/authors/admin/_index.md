@@ -116,11 +116,11 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: "FESt Menegement X BEM KM Universitas Negeri Semarang FUTURE ENTERPRENEUR SUMMIT"
+  - title: "FUTURE ENTERPRENEUR SUMMIT"
     url: https://drive.google.com/file/d/1jBdg-lW955VqXU95RQswpF-Cx2fqnjCL/view?usp=drivesdk
     certificate_url: https://drive.google.com/file/d/1jBdg-lW955VqXU95RQswpF-Cx2fqnjCL/view?usp=drivesdk
     date: "2023-03-09"
-    awarder: datacamp
+    awarder: FESt Menegement X BEM KM Universitas Negeri Semarang
     icon: datacamp
     summary: |
       Saya dengan bangga menerima sertifikat ini sebagai pengakuan atas partisipasi saya, Fazlur Rahman Hafidh, dalam acara "Future Entrepreneur Summit" yang diselenggarakan oleh FESt Management X BEM KM Universitas Negeri Semarang. Acara ini memberikan wawasan berharga tentang kewirausahaan masa depan, serta memperluas jaringan saya dengan para profesional dan peserta lainnya. Sertifikat ini menjadi motivasi untuk terus mengembangkan keterampilan dan pengetahuan saya di bidang kewirausahaan.
