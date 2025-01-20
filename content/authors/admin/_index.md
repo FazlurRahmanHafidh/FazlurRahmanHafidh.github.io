@@ -116,23 +116,6 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://drive.google.com/file/d/1jBdg-lW955VqXU95RQswpF-Cx2fqnjCL/view?usp=drivesdk
-    date: "2023-11-25"
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: "2023-07-01"
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
   - title: "Object-Oriented Programming in R"
     url: https://drive.google.com/file/d/1jBdg-lW955VqXU95RQswpF-Cx2fqnjCL/view?usp=drivesdk
     certificate_url: https://drive.google.com/file/d/1jBdg-lW955VqXU95RQswpF-Cx2fqnjCL/view?usp=drivesdk
@@ -140,7 +123,7 @@ awards:
     awarder: datacamp
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Saya dengan bangga menerima sertifikat ini sebagai pengakuan atas partisipasi saya, Fazlur Rahman Hafidh, dalam acara "Future Entrepreneur Summit" yang diselenggarakan oleh FESt Management X BEM KM Universitas Negeri Semarang. Acara ini memberikan wawasan berharga tentang kewirausahaan masa depan, serta memperluas jaringan saya dengan para profesional dan peserta lainnya. Sertifikat ini menjadi motivasi untuk terus mengembangkan keterampilan dan pengetahuan saya di bidang kewirausahaan.
 ---
 
 ## About Me
