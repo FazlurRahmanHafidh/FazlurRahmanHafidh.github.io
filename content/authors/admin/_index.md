@@ -83,7 +83,7 @@ skills:
       - name: Editing Foto & Video
         description: ""
         percent: 100
-        icon: video-svgrepo-com.svg
+        icon: editing.svg
       - name: SQL
         description: ""
         percent: 40
@@ -92,14 +92,14 @@ skills:
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
-      - name: Hiking
-        description: ""
-        percent: 50
-        icon: person-simple-walk
-      - name: Swimming
+      - name: Gaming
         description: ""
         percent: 100
-        icon: swim
+        icon: gaming.svg
+      - name: Swimming
+        description: ""
+        percent: 75
+        icon: swim.svg
       - name: Photography
         description: ""
         percent: 70
