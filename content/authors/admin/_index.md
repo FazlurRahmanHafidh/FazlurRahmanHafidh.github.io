@@ -121,7 +121,7 @@ awards:
     certificate_url: https://drive.google.com/file/d/1jBdg-lW955VqXU95RQswpF-Cx2fqnjCL/view?usp=drivesdk
     date: "2023-03-09"
     awarder: FESt Menegement X BEM KM Universitas Negeri Semarang
-    icon: datacamp
+    icon:
     summary: |
       Saya dengan bangga menerima sertifikat ini sebagai pengakuan atas partisipasi saya, Fazlur Rahman Hafidh, dalam acara "Future Entrepreneur Summit" yang diselenggarakan oleh FESt Management X BEM KM Universitas Negeri Semarang. Acara ini memberikan wawasan berharga tentang kewirausahaan masa depan, serta memperluas jaringan saya dengan para profesional dan peserta lainnya. Sertifikat ini menjadi motivasi untuk terus mengembangkan keterampilan dan pengetahuan saya di bidang kewirausahaan.
 ---
