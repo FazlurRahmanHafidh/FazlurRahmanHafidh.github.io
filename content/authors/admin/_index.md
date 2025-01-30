@@ -95,11 +95,11 @@ skills:
       - name: Gaming
         description: ""
         percent: 100
-        icon: assets/media/editing.svg
+        icon: assets/media/gamingg.svg
       - name: Swimming
         description: ""
         percent: 75
-        icon: assets/media/editing.svg
+        icon: assets/media/swim.svg
       - name: Photography
         description: ""
         percent: 70
