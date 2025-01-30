@@ -83,7 +83,7 @@ skills:
       - name: Editing Foto & Video
         description: ""
         percent: 100
-        icon: editing.svg
+        icon: assets/media/editing.svg
       - name: SQL
         description: ""
         percent: 40
@@ -95,11 +95,11 @@ skills:
       - name: Gaming
         description: ""
         percent: 100
-        icon: assets/media/icons/editing.svg
+        icon: assets/media/editing.svg
       - name: Swimming
         description: ""
         percent: 75
-        icon: swim.svg
+        icon: assets/media/editing.svg
       - name: Photography
         description: ""
         percent: 70
