@@ -48,10 +48,11 @@ jobs:
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Generate Pagefind search index
         run: npx pagefind --site "public"
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v2  # Ganti dengan versi terbaru
         with:
-          path: ./public
+          name: public-artifact  # Nama artifact yang akan di-upload
+          path: ./public  # Path ke direktori yang ingin di-upload
 
   deploy:
     if: github.repository_owner != 'HugoBlox'
