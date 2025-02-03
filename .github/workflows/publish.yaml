@@ -53,7 +53,7 @@ jobs:
           hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Generate Pagefind search index
         run: npx pagefind --site "public"
-      - name: Upload pages artifact
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
           path: ./public
