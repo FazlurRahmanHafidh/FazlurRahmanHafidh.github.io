@@ -41,7 +41,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Penghargaan
+      title:
       subtitle: ""
       text: ""
       # Page type to display. E.g. post, talk, publication...

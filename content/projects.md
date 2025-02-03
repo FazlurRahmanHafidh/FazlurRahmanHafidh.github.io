@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Proyek"
 date: 2024-05-19
 type: landing
 
@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
+      title: Proyek yang Dipilih
       text: Kreativitas adalah bagian penting dari hidup saya. Di sini, anda dapat menemukan beberapa project saya yang saya kembangkan dan banggakan.
       filters:
         folders:

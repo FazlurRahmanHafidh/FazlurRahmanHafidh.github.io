@@ -1,5 +1,5 @@
 ---
-title: "Experience"
+title: "Pengalaman"
 date: 2023-10-24
 type: landing
 
@@ -20,13 +20,13 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Keahlian dan Hobi
       username: admin
     design:
       show_skill_percentage: false
   - block: resume-awards
     content:
-      title: 
+      title: Penghargaan
       username: admin
   - block: resume-languages
     content:
