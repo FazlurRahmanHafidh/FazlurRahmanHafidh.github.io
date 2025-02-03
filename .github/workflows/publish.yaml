@@ -49,10 +49,10 @@ jobs:
       - name: Generate Pagefind search index
         run: npx pagefind --site "public"
       - name: Upload Artifact
-        uses: actions/upload-artifact@v2  # Ganti dengan versi terbaru
+        uses: actions/upload-artifact@v3 # Ganti dengan versi terbaru
         with:
-          name: public-artifact  # Nama artifact yang akan di-upload
-          path: ./public  # Path ke direktori yang ingin di-upload
+          name: public-artifact # Nama artifact yang akan di-upload
+          path: ./public # Path ke direktori yang ingin di-upload
 
   deploy:
     if: github.repository_owner != 'HugoBlox'
