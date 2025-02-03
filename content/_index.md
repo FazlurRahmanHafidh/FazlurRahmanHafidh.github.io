@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: "📚 My Research"
+      title: "📚 Pengantar"
       subtitle: ""
       text: |-
         Saya adalah seorang mahasiswa yang tertarik pada pemrograman dan teknologi. Saya menulis blog tentang pengembangan perangkat lunak, inovasi teknologi, dan tren terbaru dalam dunia pemrograman. Dengan menggunakan berbagai metode kualitatif dan kuantitatif, saya menyelidiki peran pemrograman dalam mendorong kemajuan teknologi dan ekonomi. Mari kita berkolaborasi! 😃
@@ -41,7 +41,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Awards
+      title: Penghargaan
       subtitle: ""
       text: ""
       # Page type to display. E.g. post, talk, publication...
